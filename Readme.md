@@ -1,3 +1,10 @@
+### Krated
+
+##### React Storybook Components
+[React Storybook for Components (No CSS framework used)](https://chippies-storybook.herokuapp.com/styleguide/index.html "Chippies Storybook")
+##### Orbit Loader
+![Orbit Loader](./Krated_Orbit_Loader.png)
+
 ### Cashflow Capital
 ##### Landing Page
 ![Landing Page](./Cashflow_Capital_Landing_Page.png)
@@ -21,13 +28,6 @@
 ![Listings](./HouseME_Listings.png)
 ##### Profile
 ![Profile](./HouseME_Profile.png)
-
-### Krated
-
-##### React Storybook Components
-[React Storybook for Components (No CSS framework used)](https://chippies-storybook.herokuapp.com/styleguide/index.html "Chippies Storybook")
-##### Orbit Loader
-![Orbit Loader](./Krated_Orbit_Loader.png)
 
 ### Matterbase
 ##### Landing Page
